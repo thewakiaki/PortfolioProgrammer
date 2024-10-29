@@ -10,7 +10,7 @@ document.getElementsByClassName("olivia_moswa")[0];
 // olivia moswa text end
 
 // designer text
-firstText = "Graduate Programmer";
+firstText = "Games Development Graduate";
 secondText = "Based in London";
 thridText = "Flexible to relocate"
 intervalTime = 600;
